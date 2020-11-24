@@ -1,7 +1,7 @@
 {
-  "name": "v12-discordjs-bot",
+  "NGD": "v12-discordjs-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create game in roblox  !!!!!",
   "main": "bot.js",
   "scripts": {
     "start" : "node ./src/bot.js",
